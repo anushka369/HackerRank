@@ -19,7 +19,7 @@ root │ ├── LanguageName/ │ ├── ProblemDomain/ │ │ ├── 
 - **Python**
 - **Java**
 - **JavaScript**
- and other languages as I learn and solve problems
+- and other languages as I learn and solve problems
 
 ---
 
