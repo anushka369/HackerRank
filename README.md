@@ -1,6 +1,6 @@
 # 🔍 HackerRank Solutions
 
-Welcome to my **HackerRank Solutions** repository! 🎉 Here, you will find solutions to various programming problems from [HackerRank](https://www.hackerrank.com). These solutions are written in multiple programming languages to enhance versatility and understanding.
+Welcome to my **HackerRank Solutions** repository! 🎉 Here, you will find solutions to various programming problems from [HackerRank](https://www.hackerrank.com/). These solutions are written in multiple programming languages to enhance versatility and understanding.
 
 ---
 
