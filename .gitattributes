@@ -1,0 +1,16 @@
+# Python files
+*.py linguist-detectable=true linguist-language=Python
+
+# C++ files
+*.cpp linguist-detectable=true linguist-language=C++
+*.hpp linguist-detectable=true linguist-language=C++
+
+# C files
+*.c linguist-detectable=true linguist-language=C
+*.h linguist-detectable=true linguist-language=C
+
+# Java files
+*.java linguist-detectable=true linguist-language=Java
+
+# JavaScript files
+*.js linguist-detectable=true linguist-language=JavaScript
