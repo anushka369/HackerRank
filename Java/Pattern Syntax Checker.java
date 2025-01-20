@@ -13,7 +13,7 @@ class Solution
           
             try
             {
-                Pattern pat=Pattern.compile(pattern);
+                Pattern pat = Pattern.compile(pattern);
                 System.out.println("Valid");
             }
             
