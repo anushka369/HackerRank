@@ -7,13 +7,13 @@ class Solution
     {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        for(int i = 0; i < t; i++)
+        for (int i = 0; i < t; i++)
         {
             try
             {
                 long x = sc.nextLong();
                 System.out.println(x+" can be fitted in:");
-                if(x >= -128 && x <= 127)
+                if (x >= -128 && x <= 127)
                 {
                     System.out.println("* byte");
                 }
@@ -23,12 +23,12 @@ class Solution
                     System.out.println("* short");
                 }
 
-                if(x >= -2147483648 && x <= 2147483647)
+                if (x >= -2147483648 && x <= 2147483647)
                 {
                     System.out.println("* int");
                 }
 
-                if(x >= Long.MIN_VALUE && x <= Long.MAX_VALUE)
+                if (x >= Long.MIN_VALUE && x <= Long.MAX_VALUE)
                 {
                     System.out.println("* long");
                 }
