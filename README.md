@@ -44,7 +44,7 @@ Each solution file contains a link to the corresponding problem on HackerRank. <
 
 ---
 
-## Contributing 🤝
+## 🤝 Contributing
 
 Contributions and suggestions are welcome! If you find any improvements, feel free to create a pull request. To contribute:
 
