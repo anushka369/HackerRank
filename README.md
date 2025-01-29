@@ -40,12 +40,16 @@ And more...
 
 ## 🔗 Links to Problems
 
-Each solution file contains a link to the corresponding problem on HackerRank. Please ensure you have a HackerRank account to view them.
+Each solution file contains a link to the corresponding problem on HackerRank. <br> Please ensure you have a HackerRank account to view them.
 
 ---
 
 ## 🤝 Contribution
 
-This repository is a personal learning project, but contributions and suggestions are welcome! If you find any improvements, feel free to create a pull request.
+This repository is a personal learning project, but contributions and suggestions are welcome! <br> If you find any improvements, feel free to create a pull request.
 
 ---
+
+## 🚀 Author
+Developed by **Anushka**. <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
