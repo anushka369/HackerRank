@@ -8,7 +8,16 @@ Welcome to my **HackerRank Solutions** repository! 🎉 Here, you will find solu
 
 The repository is organized based on the programming languages used and further categorized by problem domains:
 
-root │ ├── LanguageName/ │ ├── ProblemDomain/ │ │ ├── ProblemName.ext │ │ └── ... │ └── ... └── README.md
+```
+root
+│
+├── LanguageName/
+│ ├── ProblemDomain/
+│ │ ├── ProblemName.ext
+│ │ └── ...
+│ └── ...
+└── README.md
+```
 
 ---
 
