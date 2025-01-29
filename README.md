@@ -44,9 +44,15 @@ Each solution file contains a link to the corresponding problem on HackerRank. <
 
 ---
 
-## 🤝 Contribution
+## Contributing 🤝
 
-This repository is a personal learning project, but contributions and suggestions are welcome! <br> If you find any improvements, feel free to create a pull request.
+Contributions and suggestions are welcome! If you find any improvements, feel free to create a pull request. To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature/bug fix.
+
+3. Commit your changes and submit a pull request.
 
 ---
 
