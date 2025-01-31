@@ -13,3 +13,5 @@ button.addEventListener('click', function()
 });
 
 document.body.appendChild(button);
+
+// Link to the problem: https://www.hackerrank.com/challenges/js10-create-a-button?isFullScreen=true&hr_b=1/
