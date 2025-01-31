@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/binaryCalculator.css" type="text/css">
+    <title>Binary Calculator</title>
+</head>
+
+<body>
+    <div id="res"></div>
+    <div id="btns">
+        <button id="btn0" onclick="appendToResult('0')">0</button>
+        <button id="btn1" onclick="appendToResult('1')">1</button>
+        <button id="btnClr" onclick="clearResult()">C</button>
+        <button id="btnEql" onclick="evaluateResult()">=</button>
+        <button id="btnSum" onclick="appendToResult('+')">+</button>
+        <button id="btnSub" onclick="appendToResult('-')">-</button>
+        <button id="btnMul" onclick="appendToResult('*')">*</button>
+        <button id="btnDiv" onclick="appendToResult('/')">/</button>
+    </div>
+
+    <script src="js/binaryCalculator.js" type="text/javascript"></script>
+</body>
+</html>
+
+<!–– Link to the problem: https://www.hackerrank.com/challenges/js10-binary-calculator?isFullScreen=true&hr_b=1/ ––>
