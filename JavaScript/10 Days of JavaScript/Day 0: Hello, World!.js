@@ -32,4 +32,10 @@ function greeting(parameterVariable)
     console.log(parameterVariable);    
 }
 
+function main() 
+{
+    const parameterVariable = readLine();    
+    greeting(parameterVariable);
+}
+
 // Link to the problem: https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true/
