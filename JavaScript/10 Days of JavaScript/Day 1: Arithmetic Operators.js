@@ -38,4 +38,13 @@ function getPerimeter(length, width)
     return perimeter;
 }
 
+function main() 
+{
+    const length = +(readLine());
+    const width = +(readLine());
+    
+    console.log(getArea(length, width));
+    console.log(getPerimeter(length, width));
+}
+
 // Link to the problem: https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true/
