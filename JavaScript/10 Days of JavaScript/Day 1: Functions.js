@@ -43,4 +43,10 @@ function factorial(n)
     return result;
 }
 
+function main() 
+{
+    const n = +(readLine());
+    console.log(factorial(n));
+}
+
 // Link to the problem: https://www.hackerrank.com/challenges/js10-function/problem?isFullScreen=true/
