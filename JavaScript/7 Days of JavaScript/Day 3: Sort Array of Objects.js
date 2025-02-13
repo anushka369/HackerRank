@@ -1,6 +1,7 @@
 function sortLibrary() 
 {
-    library.sort(function(a,b) {
+    library.sort(function(a,b) 
+    {
         return a.title.localeCompare(b.title);
     });
   
