@@ -7,4 +7,4 @@ for (let s of my_array)
     }
 }
 
-// Link to the problem: https://www.hackerrank.com/contests/7days-javascript/challenges/js-for-of
+// Link to the problem: https://www.hackerrank.com/contests/7days-javascript/challenges/js-for-of/
