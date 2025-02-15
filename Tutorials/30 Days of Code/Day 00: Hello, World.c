@@ -12,7 +12,7 @@ int main()
     scanf("%[^\n]", input_string); 
     
     // Print a string literal saying "Hello, World." to stdout using printf.
-    printf("Hello, World.\n");
+    printf("Hello, World. \n");
     
     // TODO: Write a line of code here that prints the contents of input_string to stdout.
     printf(input_string);
