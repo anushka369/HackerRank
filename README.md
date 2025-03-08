@@ -45,7 +45,7 @@ root
   - Stacks and Queues
     
 - **Mathematics**
-- 
+
 And more...
 
 ---
