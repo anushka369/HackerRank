@@ -58,11 +58,14 @@ Each solution file contains a link to the corresponding problem on HackerRank. <
 
 ## 🫂 Contributing
 
-Contributions and suggestions are welcome! If you find any improvements, feel free to create a pull request. To contribute:
+Contributions and suggestions are welcome! If you find any improvements:
 
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Commit your changes and submit a pull request.
+1. **Fork** the repository.
+2. **Create a new branch** for your changed feature / bug fix.
+3. **Add your solution** to the appropriate problem folder.
+4. **Write a clear and concise README.md** file explaining the problem and solution.
+5. **Commit your changes** and push to your fork.
+6. **Create a pull request** to this repository.
 
 ---
 
