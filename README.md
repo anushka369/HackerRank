@@ -38,11 +38,14 @@ root
   - Warmup
   - Sorting
   - Dynamic Programming
+    
 - **Data Structures**
   - Arrays
   - Linked Lists
   - Stacks and Queues
+    
 - **Mathematics**
+- 
 And more...
 
 ---
@@ -53,18 +56,24 @@ Each solution file contains a link to the corresponding problem on HackerRank. <
 
 ---
 
-## 🤝 Contributing
+## 🫂 Contributing
 
 Contributions and suggestions are welcome! If you find any improvements, feel free to create a pull request. To contribute:
 
 1. Fork the repository.
-
 2. Create a new branch for your feature/bug fix.
-
 3. Commit your changes and submit a pull request.
+
+---
+
+## ⚠ **Disclaimer**
+
+These solutions are provided as-is for learning purposes only. They may not be the most optimized or efficient solutions. 
 
 ---
 
 ## 🚀 Author
 Developed by **Anushka**. <br>
 📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
+
+---
